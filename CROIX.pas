@@ -1,4 +1,4 @@
-program  la_croix;
+program  la_croix; //prog pascal 
 uses crt;
 
 var
